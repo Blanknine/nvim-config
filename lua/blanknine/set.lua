@@ -16,4 +16,4 @@ vim.opt.wrap = false
 
 vim.opt.clipboard = nil 
 
-
+vim.opt.complete = menu,menuone,noselect
